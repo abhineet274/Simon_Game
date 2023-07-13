@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+  background-color: #04293A;
+}
+h1{
+  color: #E4CDA7;
+  font-size: 4rem;
+  font-weight: 900;
+  font-family: 'Architects Daughter', cursive;
+}
+button{
+  height: 200px;
+  width: 200px;
+  border: 13px solid black;
+  border-radius: 20%;
+  margin: 1%;
+}
+.green{background-color: #519259;}
+.red{background-color: red;}
+.blue{background-color: #516BEB;}
+.yellow{background-color: yellow;}
+.body-color{
+  background-color: red;
+  opacity: 0.8;
+}
+.blink_button{
+  background-color: grey;
+  box-shadow: 0 0 20px white;
+}
+
+.h{
+  color: #04293A;
+ }
